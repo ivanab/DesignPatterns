@@ -1,9 +1,9 @@
 # List of Creational Design Patterns  
 
 <ul>
-    <li><a href="Singleton.md"><h2>Singleton<h2></a></li>
-    <li><a href="FactoryMethod.md"><h2>Factory Method<h2></a></li>
-    <li><a href="AbstractFactory.md"><h2>Singleton<h2></a></li>
-    <li><a href="Builder.md"><h2>Builder<h2></a></li>
-    <li><a href="Prototype.md"><h2>Prototype<h2></a></li>
+    <li style="font-size:25px"><a href="Singleton.md">Singleton</a></li>
+    <li style="font-size:25px"><a href="FactoryMethod.md">Factory Method</a></li>
+    <li style="font-size:25px"><a href="AbstractFactory.md">Abstract Factory</a></li>
+    <li style="font-size:25px"><a href="Builder.md">Builder</a></li>
+    <li style="font-size:25px"><a href="Prototype.md">Prototype</a></li>
 </ul>
